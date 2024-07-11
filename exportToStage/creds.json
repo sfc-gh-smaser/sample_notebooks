@@ -1,0 +1,9 @@
+{
+    "account" : "<MY_ACCOUNT>",
+    "user" : "<MY_USER>",
+    "private_key_file" : "rsa_key.p8",
+    "role" : "<MY_ROLE>",
+    "warehouse" : "<MY_WAREHOUSE>",
+    "database" : "<MY_DATABASE>",
+    "schema" : "PUBLIC"
+}
